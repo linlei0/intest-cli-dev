@@ -2,6 +2,6 @@
 
 const code = require('..');
 
-describe('code', () => {
+describe('core', () => {
     it('needs tests');
 });
